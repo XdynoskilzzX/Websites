@@ -22,7 +22,7 @@
       <li><a href="login.html">Login</a></li>
 
       <div id="login-succeed">
-      Login succeed! Welcome!
+      	Login succeed! Welcome!
       </div>
 
     </div>
