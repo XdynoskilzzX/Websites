@@ -33,3 +33,13 @@ body{
 #navbar a:hover{
   color: #FDB536;
 }
+
+#navbar_logo{
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  float: left;
+  left: 40px;
+  font-size: 20px;
+  position: relative;
+  padding: 5px 5px;
+}
