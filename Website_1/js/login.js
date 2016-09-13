@@ -14,7 +14,7 @@ function clicked() {
 		if(pass.value == corpass) {
 		
 			window.alert("Welcome, " + "Admin");
-			window.open("#");
+			window.open("welcome.php");
 		
 		} else {
 		

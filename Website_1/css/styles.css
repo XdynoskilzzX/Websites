@@ -45,3 +45,10 @@ body{
   position: relative;
   padding: 5px 5px;
 }
+
+#login-succeed {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: black;
+  padding-top: 100px;
+}
