@@ -4,10 +4,12 @@ body{
 }
 
 #navbar{
+  background-image: url("../assets/img/navbar_background.jpg");
   text-align: right;
   background-color: #1B1C1C;
   height: 80px;
   width: 100%;
+  border-bottom: 2px solid #FDB536;
 
 }
 
