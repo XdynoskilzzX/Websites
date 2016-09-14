@@ -4,8 +4,8 @@ $first_name = $_POST['first_name'];
 $last_name = $_POST['last_name'];
 $email = $_POST['email'];
 $message = $_POST['message'];
-$to = ""; /* Email of Zak */
-$subject = "New Message";
+$to = "zakariyaoulhadj01@gmail.com"; /* Email of Zak */
+$subject = "Contact Form - WebDevelopmentGroup";
 
 mail ($to, $subject, $message, "From: " . $first_name . $last_name . $email);
 
